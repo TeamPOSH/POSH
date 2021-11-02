@@ -1,10 +1,10 @@
 # POSH 
 React Native 기반의 모바일 리커머스 마켓 프로젝트 👩🏻‍💻
 ---
-[![Contributors](https://img.shields.io/github/contributors-anon/https://github.com/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
-[![LastCommit](https://img.shields.io/github/last-commit/https://github.com/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
-[![Commit](https://img.shields.io/github/commit-activity/w/https://github.com/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps://github.com/TeamPOSH/POSH&count_bg=%23FF8500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TeamPOSH/POSH)
+[![Contributors](https://img.shields.io/github/contributors-anon/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
+[![LastCommit](https://img.shields.io/github/last-commit/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
+[![Commit](https://img.shields.io/github/commit-activity/w/TeamPOSH/POSH)](https://github.com/TeamPOSH/POSH)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeamPOSH/POSH&count_bg=%23FF8500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TeamPOSH/POSH)
 
 <br/>
 
