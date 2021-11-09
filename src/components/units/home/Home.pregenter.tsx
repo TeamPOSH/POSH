@@ -12,7 +12,7 @@ export default function HomeUI() {
   return (
     <Wrapper>
       <TopWrapper>
-        <Logo src="/images/logo.png"></Logo>
+        <Logo src="/images/logo.png" />
       </TopWrapper>
       <div>
         <Search placeholder="검색어를 입력해주세요"></Search>
